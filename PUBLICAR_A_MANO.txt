@@ -1,0 +1,30 @@
+LOTE 170 — NO PUBLICADO EN BUFFER
+buffer___get_account respondió HTTP 429.
+Retry-After: 990629 segundos.
+No reintentar antes de 2026-11-21T02:31:02Z.
+No hay id de post. No se inventaron ids de canal.
+La organización no se pudo leer por el 429.
+Voz: edge-tts. isAiGenerated: sí. madeForKids: no.
+No es consejo médico. Nada sobre Cuba.
+
+1) IA al Alcance — hoacin.mp4 — 162.36 s — vertical 1080x1920
+Título: 2026 Esa cría trepa con garras en el ala
+Miniatura (3 palabras): GARRAS EN ALAS
+YouTube categoryId: 15
+Voz: es-MX-DaliaNeural
+Tema nuevo: hoacín / Opisthocomus hoazin (no usado en el lote 168)
+
+2) Refugio en la Palabra — vasija.mp4 — 156.22 s — vertical 1080x1920
+Título: 2026 La vasija vacía no era el final
+Miniatura: VASIJA Y LUZ
+YouTube categoryId: 27
+Voz: es-MX-JorgeNeural
+
+3) Instagram / cuerpo (Anatomía del engaño solo si ese canal existe; no se publicó)
+lengua.mp4 — 162.02 s — vertical 1080x1920
+Título: 2026 Tu lengua inventa un incendio
+Miniatura: INCENDIO SIN FUEGO
+Si el canal es YouTube, categoryId 27. Si es Instagram, reel y shouldShareToFeed true.
+Voz: es-CO-SalomeNeural
+schedulingType: automatic, salvo que el canal sea perfil personal de Instagram: en ese caso notification.
+mode pedido: shareNow. No se ejecutó.
